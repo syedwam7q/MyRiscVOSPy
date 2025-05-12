@@ -1,0 +1,9 @@
+# No external dependencies required for the basic functionality
+# The simulator uses only standard Python libraries
+
+# For future GUI implementation
+# tkinter is included in standard Python distribution
+
+# For future web dashboard implementation
+# flask==2.0.1
+# flask-socketio==5.1.1
